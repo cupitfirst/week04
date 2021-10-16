@@ -4,3 +4,6 @@
   * com.bh1ofp.CallableDemo
   * com.bh1ofp.RunnableDemo
   * com.bh1ofp.ThreadPoolExecutorDemo
+
+### 6.（必做）把多线程和并发相关知识梳理一遍，画一个脑图，截图上传到 GitHub 上。
+  ![Aaron Swartz](https://github.com/cupitfirst/week04/blob/master/Thread.png)
